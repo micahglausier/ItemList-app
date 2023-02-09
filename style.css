@@ -48,7 +48,7 @@ ol li {
 }
 
 ol li:nth-child(even) {
-    background: #dfdfdf;
+    background: #050505;
 }
 
 .strike {
